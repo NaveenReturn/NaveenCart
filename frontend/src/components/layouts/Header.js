@@ -12,6 +12,7 @@ export default function Header (){
       <div className="col-12 col-md-3">
         <div className="navbar-brand">
           <Link to="/">
+            <span>Naveen</span>
           <img width="150px" src="/images/logo.png" alt='DEEPAcart' />
           </Link>
         </div>
